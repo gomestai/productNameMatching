@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains code for training a product similarity model using the BERT-based transformer for sequence classification. The model is designed to categorize product descriptions into predefined classes based on their similarity. You can check the article on [Medium](#https://medium.com/@tufekcisencer/dead-simple-product-name-matching-with-nlp-f55c3ce4dcce) for more details.
+This repository contains code for training a product similarity model using the BERT-based transformer for sequence classification. The model is designed to categorize product descriptions into predefined classes based on their similarity. You can check the article on [Medium](https://medium.com/@tufekcisencer/dead-simple-product-name-matching-with-nlp-f55c3ce4dcce) for more details.
 
 ## Files
 
